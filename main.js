@@ -1,1 +1,1 @@
-alert("Hello, Js!");
+alert("GitHub JJang");
